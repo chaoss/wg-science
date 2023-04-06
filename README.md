@@ -10,11 +10,7 @@ The <<name of WG>> working group meets every <<time in US, UTC>> via [Zoom](http
 
 2-3 sentence overview of the working group. 
 
-## Focus Areas
-
-[WG Focus Areas](https://link_to_metrics_spreadsheet)
-
-## Released Metrics
+## Released CHAOSS Metrics and Metrics Models
 
 Check out our released metrics at: [https://chaoss.community/metrics/](https://chaoss.community/kb-metrics-and-metrics-models/)
 
