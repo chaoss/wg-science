@@ -12,7 +12,7 @@ The Science Working Group meets every <<time in US, UTC>> via [Zoom](https://zoo
 
 ## Released CHAOSS Metrics and Metrics Models
 
-Check out our released metrics at: [https://chaoss.community/metrics/](https://chaoss.community/kb-metrics-and-metrics-models/)
+Check out released CHAOSS metrics and metrics models at: [https://chaoss.community/metrics/](https://chaoss.community/kb-metrics-and-metrics-models/)
 
 ## New Contributors
 
