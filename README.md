@@ -16,7 +16,7 @@ Check out released CHAOSS metrics and metrics models at: [https://chaoss.communi
 
 ## New Contributors
 
-This project is open to anyone interested in the topic of <<working group>>. Please check our (guide for new contributors)[https://chaoss.community/kb-getting-started/]
+This project is open to anyone interested in the topic of <<working group>>. Please check our [guide for new contributors](https://chaoss.community/kb-getting-started/)
 
 ## Maintainers
 
