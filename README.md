@@ -20,7 +20,8 @@ This project is open to anyone interested in the topic of metrics in the context
 
 ## Maintainers
 
-List of approximately 2 people. Link to the GH profile if available. 
+- [Melissa Mendonça](https://github.com/melissawm)
+- [Inessa Pawson](https://github.com/InessaPawson)
 
 ## Core Contributors
 
