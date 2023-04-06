@@ -2,9 +2,9 @@
 
 ## Participate
 
-The <<name of WG>> working group meets every <<time in US, UTC>> via [Zoom](https://zoom.us/j/4998687533)
+The Science Working Group meets every <<time in US, UTC>> via [Zoom](https://zoom.us/j/4998687533)
 
-[Agenda and Meeting Minutes](https://link_to_minutes)
+[Agenda and Meeting Minutes](https://docs.google.com/document/d/1w76Wd-75O5dDkCmgONG5VNsniW2kQCKiXgNIIqLYl90/edit)
 
 ## Background
 
