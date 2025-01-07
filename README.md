@@ -4,7 +4,7 @@
 
 The Scientific Open Source Software (SciOSS) Working Group meets every other Tuesday at 2pm US Central Time (US/Chicago) via [Zoom](https://zoom.us/my/chaoss).
 
-[Agenda and Meeting Minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?tab=t.splyi0yi4smv#heading=h.oznzkn3t2ext)
+[Agenda and Meeting Minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?tab=t.splyi0yi4smv)
 
 ## Problem
 
