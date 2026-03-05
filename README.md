@@ -1,40 +1,31 @@
-# CHAOSS Science Working Group
-
-## Participate
-
-The Scientific Open Source Software (SciOSS) Working Group meets every other Tuesday at 2pm US Central Time (US/Chicago) via [Zoom](https://zoom.us/my/chaoss).
-
-[Agenda and Meeting Minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?tab=t.splyi0yi4smv)
+# CHAOSS Science and Research Working Group
 
 ## Problem
 
-Monitoring and analyzing contributions to large scientific open source projects currently presents a challenge due to the lack of specialized tools available and established metrics standards.
+Monitoring and analyzing contributions to large scientific and research open source projects currently presents a challenge due to the lack of specialized tools available and established metrics standards.
 
 ## Objectives
 - Define useful metrics
 - Identify best tools 
-- Develop best practices and metrics standards for scientific open source projects
+- Develop best practices and metrics standards for scientific and research open source projects
 
 ## Mission
 
-SciOSS group aims to develop research-informed and peer-validated community health metrics and standards that will help scientific open source project leaders and funders better support contributors and make the impact of community focused work more visible. It will also help drive the adoption of these metrics and implementation of best practices.
+CHAOSS Science and Research Working Group aims to develop research-informed and peer-validated community health metrics and standards that will help scientific and research open source project leaders and funders better support contributors and make the impact of community focused work more visible. It will also help drive the adoption of these metrics and implementation of best practices.
 
 ## Released CHAOSS Metrics and Metrics Models
 
 Check out released CHAOSS metrics and metrics models at [https://chaoss.community/metrics/](https://chaoss.community/kb-metrics-and-metrics-models/).
 
-## New Contributors
-
-This project is open to anyone interested in the topic of metrics in the context of scientific open source software. Please check our [Guide for new contributors](https://chaoss.community/kb-getting-started/).
-
 ## Maintainers
 
-- [Melissa Mendonça](https://github.com/melissawm)
+- [Sean P. Goggins](https://github.com/sgoggins)
 - [Inessa Pawson](https://github.com/InessaPawson)
 
-## Contributors
+## Participate
 
-Your name could be here! Join us at the next community meeting to learn what we are currently working on.
+The Science and Research Working Group is currently on hiatus. If you have any questions or suggestions for the group members, please share them by posting a comment in the #wg-science-research-oss channel on the CHAOSS Community Slack or via email: wg-science-research-o-aaaajic3zw5ucrnxdj7fqzhi3e@chaoss-workspace.slack.com
+
 
 ## License
 
